@@ -16,7 +16,7 @@ Machine learning classification project developed in Orange Data Mining to predi
 
 ## Workflow
 
-![Orange Workflow](ML Workflow.png)
+![Orange Workflow](ml_workflow.png)
 
 ## Repository Contents
 
