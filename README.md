@@ -20,11 +20,7 @@ Machine learning classification project developed in Orange Data Mining to predi
 
 ## Repository Contents
 
-```text
-mobile-price-prediction/
-│
 ├── README.md
 ├── technical_report.pdf
 ├── workflow.png
 └── orange_workflow.ows
-```
